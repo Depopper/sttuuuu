@@ -1,0 +1,5 @@
+
+date = new Date()
+
+console.log(date.getDay())
+
